@@ -23,12 +23,12 @@ spec:
         - name: Site
           value: "https://github.com/happyevero/Html/raw/main/LandingStartups-html.zip"
         - name: Vless_UUID
-          value: "2c075f41-370f-47bd-875e-5cf42b442313"
+          value: "321c8fc7-7359-4af9-b3d8-8c9d35b70780"
         - name: Vless_Path
-          value: "/2c075f41"
+          value: "/321c8fc7"
         - name: Vmess_UUID
-          value: "5a1ce1bf-1111-4709-87e7-57536402be94"
+          value: "ba2e4ba6-5ef3-49e1-9191-2b8eff6720a4"
         - name: Vmess_Path
-          value: "/5a1ce1bf"
+          value: "/ba2e4ba6"
         - name: Share_Path
           value: "/v2link"
