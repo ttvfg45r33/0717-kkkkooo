@@ -13,7 +13,7 @@ spec:
         app: videol
     spec:
       containers:
-      - image: okteto.dev/ray:latest
+      - image: okteto.dev/videol:latest
         name: videol
         ports:
         - containerPort: 8080
